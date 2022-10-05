@@ -1,5 +1,6 @@
 import sys
 
+#prueba
 # Funcion que dada una lista de caracteres devuelve un diccionario con pares caracter-frecuencia
 def frecuenciasDic(lista):
     frecuencias = [lista.count(c) for c in lista]
